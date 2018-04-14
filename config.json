@@ -1,0 +1,12 @@
+{"buttons":[
+  {
+    "name": "GoodMorning",
+    "address": "b4:7c:9c:0f:eb:20",
+    "interface": "en0",
+    "timeout": "60000",
+    "url": "https://maker.ifttt.com/trigger/GoodMorning/with/key/HWwUVqzoLY37GlG4l1NoL",
+    "method": "POST",
+    "json": true,
+    "body": {"value1":"Somebody pushed ME! Ohayo~ Ohayo~"}
+  }
+]}
